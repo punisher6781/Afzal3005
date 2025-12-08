@@ -30,7 +30,7 @@ AI-powered feedback processing system designed to collect, analyze, and interpre
 🔹 **SPOTIFY-CLONE**  
 A fully functional music streaming UI clone featuring playlists, player controls, and clean modern UI/UX components. Built using frontend technologies for a smooth, responsive experience.
 
-🔹 **MOVIE_LIST_MAIN**  
+🔹 [**MOVIE_LIST_MAIN**       ](https://github.com/punisher6781/MOVIE_LIST_MAIN)  
 A dynamic movie listing application showcasing movie details, filtering features, and structured presentation. Designed for simplicity, speed, and clean code architecture.
 
 
