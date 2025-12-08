@@ -27,7 +27,7 @@ I’m a passionate Software Engineer with a strong background in backend develop
 🔹 [**JARVIS-FEEDBACK-FORM**  ](https://github.com/punisher6781/JARVIS-FEEDBACK-FORM)
 AI-powered feedback processing system designed to collect, analyze, and interpret user feedback efficiently. Built with automation workflows and intelligent response handling.
 
-🔹 **SPOTIFY-CLONE**  
+🔹 [**SPOTIFY-AUTOMATION**         ](https://github.com/punisher6781/SPOTIFY-AUTOMATION)
 A fully functional music streaming UI clone featuring playlists, player controls, and clean modern UI/UX components. Built using frontend technologies for a smooth, responsive experience.
 
 🔹 [**MOVIE_LIST_MAIN**       ](https://github.com/punisher6781/MOVIE_LIST_MAIN)  
