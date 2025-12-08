@@ -36,3 +36,8 @@ A dynamic movie listing application showcasing movie details, filtering features
 
 ⭐ _Thanks for visiting my profile!_
 
+## 🌐 Connect with Me
+ 
+🐙 **GitHub** — (https://github.com/punisher6781)
+📩 **Email** — afzalshaikh3005@gmail.com
+
