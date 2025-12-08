@@ -22,14 +22,17 @@ I’m a passionate Software Engineer with a strong background in backend develop
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
-- 🔍 **AI Automation Workflows**
-- 🤖 **Mammals Detection & Classification using AI**
-- 📷 **CameraPoint – E-commerce for Cameras & Gadgets**
-- 📝 **Financial Document Analysis using AI**
+🔹 **JARVIS-FEEDBACK-FORM**  
+AI-powered feedback processing system designed to collect, analyze, and interpret user feedback efficiently. Built with automation workflows and intelligent response handling.
 
----
+🔹 **SPOTIFY-CLONE**  
+A fully functional music streaming UI clone featuring playlists, player controls, and clean modern UI/UX components. Built using frontend technologies for a smooth, responsive experience.
+
+🔹 **MOVIE_LIST_MAIN**  
+A dynamic movie listing application showcasing movie details, filtering features, and structured presentation. Designed for simplicity, speed, and clean code architecture.
+
 
 ⭐ _Thanks for visiting my profile!_
 
