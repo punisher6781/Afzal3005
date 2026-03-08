@@ -44,7 +44,7 @@ A responsive fitness web application that helps users discover workout routines 
 ## 🌐 Connect With Me
 
 LinkedIn:
-https://www.linkedin.com/in/mohd-afzal-shaikh
+(https://www.linkedin.com/in/afzal-shaikh-3aaa72268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 GitHub:
 https://github.com/punisher6781
