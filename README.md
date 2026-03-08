@@ -27,17 +27,54 @@ I’m a passionate Software Engineer with a strong background in backend develop
 🔹 [**JARVIS-FEEDBACK-FORM**  ](https://github.com/punisher6781/JARVIS-FEEDBACK-FORM)
 AI-powered feedback processing system designed to collect, analyze, and interpret user feedback efficiently. Built with automation workflows and intelligent response handling.
 
-🔹 [**SPOTIFY-AUTOMATION**         ](https://github.com/punisher6781/SPOTIFY-AUTOMATION)
-A fully functional music streaming UI clone featuring playlists, player controls, and clean modern UI/UX components. Built using frontend technologies for a smooth, responsive experience.
+# Hi 👋 I'm Mohd Afzal Shaikh
 
-🔹 [**MOVIE_LIST_MAIN**       ](https://github.com/punisher6781/MOVIE_LIST_MAIN)  
-A dynamic movie listing application showcasing movie details, filtering features, and structured presentation. Designed for simplicity, speed, and clean code architecture.
+🚀 Developer | Web Developer | Tech Enthusiast
 
+I am a Computer Science student passionate about building real-world applications and improving my development skills through practical projects.
 
-⭐ _Thanks for visiting my profile!_
+I enjoy working on web development projects and exploring new technologies that solve real problems.
 
-## 🌐 Connect with Me
- 
-🐙 **GitHub** — (https://github.com/punisher6781)
+---
+
+## 🔥 Projects
+
+### 🏋️ GymBoy
+A modern fitness web application designed to help users explore workout plans and improve their fitness journey.
+
+Live Demo:
+https://gymboy.vercel.app/
+
+---
+
+### 🤖 Jarvis Feedback Form
+A smart feedback collection system that allows users to submit feedback easily with a clean interface.
+
+GitHub:
+https://github.com/punisher6781/JARVIS-FEEDBACK-FORM
+
+---
+
+## 🛠 Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Python
+- Git & GitHub
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/mohd-afzal-shaikh
+
+GitHub:
+https://github.com/punisher6781
+
 📩 **Email** — afzalshaikh3005@gmail.com
+
+⭐ Thanks for visiting my profile.
 
