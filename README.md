@@ -27,33 +27,8 @@ I’m a passionate Software Engineer with a strong background in backend develop
 🔹 [**JARVIS-FEEDBACK-FORM**  ](https://github.com/punisher6781/JARVIS-FEEDBACK-FORM)
 AI-powered feedback processing system designed to collect, analyze, and interpret user feedback efficiently. Built with automation workflows and intelligent response handling.
 
-# Hi 👋 I'm Mohd Afzal Shaikh
-
-🚀 Developer | Web Developer | Tech Enthusiast
-
-I am a Computer Science student passionate about building real-world applications and improving my development skills through practical projects.
-
-I enjoy working on web development projects and exploring new technologies that solve real problems.
-
----
-
-## 🔥 Projects
-
-### 🏋️ GymBoy
-A modern fitness web application designed to help users explore workout plans and improve their fitness journey.
-
-Live Demo:
-https://gymboy.vercel.app/
-
----
-
-### 🤖 Jarvis Feedback Form
-A smart feedback collection system that allows users to submit feedback easily with a clean interface.
-
-GitHub:
-https://github.com/punisher6781/JARVIS-FEEDBACK-FORM
-
----
+🔹 [**GYMBOY – Fitness Web App**](https://gymboy.vercel.app/)  
+A responsive fitness web application that helps users discover workout routines and improve their fitness journey with an intuitive and user-friendly interface. Built with modern frontend technologies and optimized for smooth user experience.
 
 ## 🛠 Tech Stack
 
